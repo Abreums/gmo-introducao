@@ -8,9 +8,7 @@ author:
   - name: Marcos Abreu
     orcid: 0000-0003-4772-7955
     email: abreums@gmail.com
-    affiliations: Planetário
-date: last-modified
-bibliography: refs.bib
+date: "2026-07-25"
 ---
 
 # O que vamos ver... {background-color="#105666"}
@@ -252,7 +250,7 @@ Ideally, your figure will be the same aspect ratio as the screen that you're pre
 - This can be a bit tricky because of the dynamic nature of reveal.js / HTML. But it's probably something close to 16:9.
 - Aspect ratio can also matter for a regular full-frame images (previous slide).
 
-## {background-image="img/kanagawa169.jpg" background-size="100%"}
+## {background-image="img/kanagawa.jpg" background-size="100%"}
 
 
 # Other {background-color="#40666e"}
